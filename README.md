@@ -56,5 +56,3 @@
 This is essentially a **power user's uninstaller** that provides more control and visibility than the standard Windows "Add/Remove Programs" interface, with the added convenience of bulk operations.
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-06 07:05 UTC
